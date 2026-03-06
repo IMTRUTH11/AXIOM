@@ -1,0 +1,6 @@
+node_modules
+dist
+build_output.txt
+.env
+*.log
+.DS_Store
